@@ -290,6 +290,8 @@ int main() {
         data1.push_back(i);
     }
 
+    //6666666
+
     std::vector<int> data2 = data1; // 第二组测试数据（随机序列）
     std::srand(static_cast<unsigned int>(std::time(nullptr)));
     std::random_shuffle(data2.begin(), data2.end());
