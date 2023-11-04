@@ -1,0 +1,6 @@
+﻿  BST.cpp
+C:\Users\ciweiandmao\source\repos\Project9\Project9\BST.cpp(200,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ciweiandmao\source\repos\Project9\Project9\BST.cpp(282,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ciweiandmao\source\repos\Project9\Project9\BST.cpp(283,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ciweiandmao\source\repos\Project9\Project9\BST.cpp(219): warning C4715: “binarySearch”: 不是所有的控件路径都返回值
+  Project9.vcxproj -> C:\Users\ciweiandmao\source\repos\Project9\x64\Debug\Project9.exe
